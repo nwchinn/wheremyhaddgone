@@ -1,0 +1,23 @@
+.squad {
+    height:100vh;
+    width: 100%;
+    background: url('../imgs/country.png') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+
+    font-family: 'Lobster', cursive;
+}
+
+
+
+.title {
+	color: red;
+	margin-bottom: 30px
+}
+
+.title h1 {
+	font-size: 5em;
+}
